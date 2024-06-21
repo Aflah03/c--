@@ -10,6 +10,9 @@ int main(){
     case 4:
         cout <<"wenesday";
         break;
+    case 3:
+        cout << "my boy day";
+        break;
     default:
         cout <<"no day";
         break;
