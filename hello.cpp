@@ -11,7 +11,7 @@ int main(){
         cout <<"wenesday";
         break;
     default:
-        cout <<"sex day";
+        cout <<"no day";
         break;
 
    }
